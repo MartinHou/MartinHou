@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Bear with me for a while. I will work on this this summer...😊
 <!--
 **MartinHou/MartinHou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
