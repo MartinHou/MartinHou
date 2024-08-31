@@ -7,11 +7,11 @@
 ![](https://komarev.com/ghpvc/?username=MartinHou&color=green)
 <img align="right" src="https://github.com/user-attachments/assets/3f6c76e8-2903-4a08-a009-4b7cc15dc8b8" alt="Tencent Logo" style="width: 40%">
 
-Completing my M.S. in Computer Science at UIUC in 2025. 
+Completing my M.S. in Computer Science at UIUC in May/Aug/Dec 2025. 
 
-Seeking a software engineering internship Jan-May 2025.
+Seeking a software engineering **internship** Jan-May 2025.
 
-Seeking a full-time role from May/Aug 2025.
+Seeking a **full-time** role starting from May/Aug 2025.
 
 ### Previous Experience
 
