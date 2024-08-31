@@ -61,7 +61,7 @@ Dec 2022 - Jun 2023 | Shanghai, China
 <td style="border: none; padding: 0; margin: 0;">
 
 **Software Engineer Intern @ Tencent**  
-*China's tech titan, a driving force behind the digital transformation globally.*  
+*China's tech titan, the world's largest gaming company and a leader in social media, fintech, and AI.*  
 Jun - Sep, 2022 | Shenzhen, China
 
 </td>
