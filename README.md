@@ -29,7 +29,7 @@ I'm actively seeking a software engineer internship from Jan to May 2025, as wel
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=sharp)
+![C#](https://img.shields.io/badge/-sharp-black?style=flat-square&logo=c)
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
