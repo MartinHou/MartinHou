@@ -5,10 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ych/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinhou2020a@gmail.com)
 ![](https://komarev.com/ghpvc/?username=MartinHou&color=green)
+<img align="right" src="https://github.com/user-attachments/assets/3f6c76e8-2903-4a08-a009-4b7cc15dc8b8" alt="Tencent Logo" style="width: 30%">
 
-I am finishing my Master of Computer Science degree at University of Illinois Urbana-Champaign (UIUC) in May, Aug, or Dec 2025! 
-
-I'm actively seeking a software engineer internship from Jan to May 2025, as well as new grad position from May 2025.
+<div>
+Completing my M.S. in Computer Science at UIUC in 2025. <br/>Seeking a software engineering internship Jan-May 2025 and full-time roles from May 2025.
+</div>
 
 ### Previous Experience
 
@@ -16,66 +17,54 @@ I'm actively seeking a software engineer internship from Jan to May 2025, as wel
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="80%" style="border: none; padding: 0; margin: 0;">
-
+<td width="70%" style="border: none; padding: 0; margin: 0;">
+    
 **Backend Developer Intern @ Esri**  
 *The global leader in GIS technology, shaping the future of geospatial data.*  
 May - Aug, 2024 | Redlands, CA
 
 </td>
-<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
-    <img src="https://github.com/user-attachments/assets/7a587c4c-e6af-48b2-911a-3e6d2e445517" alt="Esri Logo" width="50%">
+<td width="30%" align="center" style="border: none; padding: 0; margin: 0; text-align: center; vertical-align: middle;">
+    <img src="https://github.com/user-attachments/assets/7a587c4c-e6af-48b2-911a-3e6d2e445517" alt="Esri Logo" width="60%">
 </td>
 </tr>
-</table>
 
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="80%" style="border: none; padding: 0; margin: 0;">
+<td style="border: none; padding: 0; margin: 0;">
 
 **Backend Developer Intern @ Momenta.ai**  
-*Pioneering autonomous driving solutions, leading the charge in intelligent transportation.*  
+*China’s top autonomous driving startup, with $1 billion in funding, leading Level 4 automation.*  
 Aug - Dec, 2023 | Suzhou, China
 
 </td>
-<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
+<td align="center" style="border: none; padding: 0; margin: 0; text-align: center; vertical-align: middle;">
     <img src="https://github.com/user-attachments/assets/ba46ba12-bcf9-486f-86be-430caf1de5f7" alt="Momenta.ai Logo" width="50%">
 </td>
 </tr>
-</table>
 
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="80%" style="border: none; padding: 0; margin: 0;">
+<td style="border: none; padding: 0; margin: 0;">
 
 **Fullstack Engineer Intern @ miHoYo (AKA HoYoverse)**  
-*Creators of global gaming phenomena, redefining the future of interactive entertainment.*  
+*Creator of the highest-grossing game globally, Genshin Impact, generating over $4 billion.*  
 Dec 2022 - Jun 2023 | Shanghai, China
 
 </td>
-<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
-    <img src="https://github.com/user-attachments/assets/c4cd3cd1-0cdb-469d-8f95-d8fa5f2ab136" alt="miHoYo Logo" width="50%">
+<td align="center" style="border: none; padding: 0; margin: 0; text-align: center; vertical-align: middle;">
+    <img src="https://github.com/user-attachments/assets/c4cd3cd1-0cdb-469d-8f95-d8fa5f2ab136" alt="miHoYo Logo" width="80%">
 </td>
 </tr>
-</table>
 
----
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
-<td width="80%" style="border: none; padding: 0; margin: 0;">
+<td style="border: none; padding: 0; margin: 0;">
 
 **Software Engineer Intern @ Tencent**  
 *China's tech titan, a driving force behind the digital transformation globally.*  
 Jun - Sep, 2022 | Shenzhen, China
 
 </td>
-<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
-    <img src="https://github.com/user-attachments/assets/7b79ed0e-74c3-4070-947d-fa5cbc6fb32d" alt="Tencent Logo" width="50%">
+<td align="center" style="border: none; padding: 0; margin: 0; text-align: center; vertical-align: middle;">
+    <img src="https://github.com/user-attachments/assets/7b79ed0e-74c3-4070-947d-fa5cbc6fb32d" alt="Tencent Logo" width="90%">
 </td>
 </tr>
 </table>
