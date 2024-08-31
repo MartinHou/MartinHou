@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MartinHou)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ych/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinhou2020a@gmail.com)
-[![HitCount](https://hits.dwyl.com/MartinHou/MartinHou.svg?style=flat-square)](http://hits.dwyl.com/MartinHou/MartinHou)
+![](https://komarev.com/ghpvc/?username=MartinHou&color=green)
 
 Welcome to my Github page! 
 I am finishing my Master of Computer Science degree at University of Illinois Urbana-Champaign (UIUC) in May, Aug, or Dec 2025! 
