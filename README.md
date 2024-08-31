@@ -1,11 +1,14 @@
-## Hi there 👋 
-## This is Martin (Yunchao) Hou, a skilled backend/fullstack developer!
+### Hi there 👋 
+### This is Martin (Yunchao) Hou, a skilled backend/fullstack developer!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MartinHou)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ych/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinhou2020a@gmail.com)
 ![](https://komarev.com/ghpvc/?username=MartinHou&color=green)
+
 <img align="right" src="https://github.com/user-attachments/assets/3f6c76e8-2903-4a08-a009-4b7cc15dc8b8" alt="Tencent Logo" style="width: 40%">
+
+----
 
 Completing my M.S. in Computer Science at UIUC in May/Aug/Dec 2025. 
 
@@ -13,9 +16,7 @@ Seeking a software engineering **internship** Jan-May 2025.
 
 Seeking a **full-time** role starting from May/Aug 2025.
 
-### Previous Experience
-
----
+## Previous Experience
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
@@ -71,15 +72,12 @@ Jun - Sep, 2022 | Shenzhen, China
 </tr>
 </table>
 
-
-
-
-### 🌱 Things I am currently working on: 
+## 🌱 Things I am currently working on: 
 - Finishing my CS Master Degree
 - Learning CUDA and React.js in school
 - Building a better personal profile website
 
-### 📚 Courses taken at UIUC
+## 📚 Courses taken at UIUC
 - ECE408 - Applied Parallel Programming 
 - CS409 - Art of Web Programming
 - CS411 - Database Systems
@@ -88,7 +86,7 @@ Jun - Sep, 2022 | Shenzhen, China
 - CS511 - Advanced Data Management
 - CS527 - Topics in Software Engineering 
 
-### 🖥️ Languages: 
+## 🖥️ Languages: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -96,7 +94,7 @@ Jun - Sep, 2022 | Shenzhen, China
 ![C#](https://img.shields.io/badge/-C_sharp-black?style=flat-square&logo=sharp)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
-### ⚙️ Tools:
+## ⚙️ Tools:
 #### Backend
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
