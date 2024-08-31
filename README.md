@@ -10,6 +10,79 @@ I am finishing my Master of Computer Science degree at University of Illinois Ur
 
 I'm actively seeking a software engineer internship from Jan to May 2025, as well as new grad position from May 2025.
 
+### Previous Experience
+
+---
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="80%" style="border: none; padding: 0; margin: 0;">
+
+**Backend Developer Intern @ Esri**  
+*The global leader in GIS technology, shaping the future of geospatial data.*  
+May - Aug, 2024 | Redlands, CA
+
+</td>
+<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
+    <img src="https://github.com/user-attachments/assets/7a587c4c-e6af-48b2-911a-3e6d2e445517" alt="Esri Logo" width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="80%" style="border: none; padding: 0; margin: 0;">
+
+**Backend Developer Intern @ Momenta.ai**  
+*Pioneering autonomous driving solutions, leading the charge in intelligent transportation.*  
+Aug - Dec, 2023 | Suzhou, China
+
+</td>
+<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
+    <img src="https://github.com/user-attachments/assets/ba46ba12-bcf9-486f-86be-430caf1de5f7" alt="Momenta.ai Logo" width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="80%" style="border: none; padding: 0; margin: 0;">
+
+**Fullstack Engineer Intern @ miHoYo (AKA HoYoverse)**  
+*Creators of global gaming phenomena, redefining the future of interactive entertainment.*  
+Dec 2022 - Jun 2023 | Shanghai, China
+
+</td>
+<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
+    <img src="https://github.com/user-attachments/assets/c4cd3cd1-0cdb-469d-8f95-d8fa5f2ab136" alt="miHoYo Logo" width="50%">
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="80%" style="border: none; padding: 0; margin: 0;">
+
+**Software Engineer Intern @ Tencent**  
+*China's tech titan, a driving force behind the digital transformation globally.*  
+Jun - Sep, 2022 | Shenzhen, China
+
+</td>
+<td width="20%" align="right" style="border: none; padding: 0; margin: 0;">
+    <img src="https://github.com/user-attachments/assets/7b79ed0e-74c3-4070-947d-fa5cbc6fb32d" alt="Tencent Logo" width="50%">
+</td>
+</tr>
+</table>
+
+
+
+
 ### 🌱 Things I am currently working on: 
 - Finishing my CS Master Degree
 - Learning CUDA and React.js in school
@@ -28,19 +101,16 @@ I'm actively seeking a software engineer internship from Jan to May 2025, as wel
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=cplusplus)
-![C#](https://img.shields.io/badge/-C_sharp-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C_sharp-black?style=flat-square&logo=sharp)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
 
 ### ⚙️ Tools:
 #### Backend
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=dotnet
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot)) <br />
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=dotnet)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot) <br />
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
@@ -54,8 +124,7 @@ I'm actively seeking a software engineer internship from Jan to May 2025, as wel
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
+![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=materialdesign)
 ![Ant_Design](https://img.shields.io/badge/-Ant_Design-black?style=flat-square&logo=antdesign)
 
 #### Big data
@@ -63,7 +132,7 @@ I'm actively seeking a software engineer internship from Jan to May 2025, as wel
 ![Spark](https://img.shields.io/badge/-Spark-000000?style=flat&logo=apachespark)
 
 #### Cloud Services
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=awslambda)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonwebservices)
 ![GCP](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=googlecloud)
 ![HUAWEI_Cloud](https://img.shields.io/badge/-HUAWEI_Cloud-black?style=flat-square&logo=huawei)
 
