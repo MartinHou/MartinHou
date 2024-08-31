@@ -10,7 +10,7 @@
 
 ----
 
-Completing my M.S. in Computer Science at UIUC in May/Aug/Dec 2025. 
+Completing my [M.S. in Computer Science](https://siebelschool.illinois.edu/academics/graduate/professional-mcs) at UIUC in May/Aug/Dec 2025. 
 
 Seeking a software engineering **internship** Jan-May 2025.
 
@@ -22,7 +22,7 @@ Seeking a **full-time** role starting from May/Aug 2025.
 <tr>
 <td width="70%" style="border: none; padding: 0; margin: 0;">
     
-**Backend Developer Intern @ Esri**  
+**Backend Developer Intern @ [Esri](https://www.esri.com/en-us/home)**  
 *The global leader in GIS technology, shaping the future of geospatial data.*  
 May - Aug, 2024 | Redlands, CA
 
@@ -35,7 +35,7 @@ May - Aug, 2024 | Redlands, CA
 <tr>
 <td style="border: none; padding: 0; margin: 0;">
 
-**Backend Developer Intern @ Momenta.ai**  
+**Backend Developer Intern @ [Momenta.ai](https://www.momenta.cn)**  
 *China’s top autonomous driving startup, with $1 billion in funding, leading Level 4 automation.*  
 Aug - Dec, 2023 | Suzhou, China
 
@@ -48,7 +48,7 @@ Aug - Dec, 2023 | Suzhou, China
 <tr>
 <td style="border: none; padding: 0; margin: 0;">
 
-**Fullstack Engineer Intern @ miHoYo (AKA HoYoverse)**  
+**Fullstack Engineer Intern @ [miHoYo](https://www.mihoyo.com/en/) (AKA [HoYoverse](https://www.hoyoverse.com/en-us/))**  
 *Creator of the highest-grossing game globally, Genshin Impact, generating over $4 billion.*  
 Dec 2022 - Jun 2023 | Shanghai, China
 
@@ -61,7 +61,7 @@ Dec 2022 - Jun 2023 | Shanghai, China
 <tr>
 <td style="border: none; padding: 0; margin: 0;">
 
-**Software Engineer Intern @ Tencent**  
+**Software Engineer Intern @ [Tencent](https://www.tencent.com/en-us/)**  
 *China's tech titan, the world's largest gaming company and a leader in social media, fintech, and AI.*  
 Jun - Sep, 2022 | Shenzhen, China
 
@@ -78,12 +78,12 @@ Jun - Sep, 2022 | Shenzhen, China
 - Building a better personal profile website
 
 ## 📚 Courses taken at UIUC
-- ECE408 - Applied Parallel Programming 
-- CS409 - Art of Web Programming
-- CS411 - Database Systems
-- CS441 - Applied Machine Learning
-- CS498 - Cloud Computing Applications
-- CS511 - Advanced Data Management
+- [ECE408](https://ece.illinois.edu/academics/courses/ece408) - Applied Parallel Programming 
+- [CS409](https://siebelschool.illinois.edu/academics/courses/cs409) - Art of Web Programming
+- [CS411](https://siebelschool.illinois.edu/academics/courses/cs411) - Database Systems
+- [CS441](https://siebelschool.illinois.edu/academics/courses/cs441) - Applied Machine Learning
+- [CS498](https://siebelschool.illinois.edu/academics/courses/cs498cca) - Cloud Computing Applications
+- [CS511](https://siebelschool.illinois.edu/academics/courses/cs511) - Advanced Data Management
 - CS527 - Topics in Software Engineering 
 
 ## 🖥️ Languages: 
