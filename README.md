@@ -27,7 +27,7 @@ May - Aug, 2024 | Redlands, CA
 
 </td>
 <td width="30%" align="center" style="border: none; padding: 0; margin: 0; text-align: center; vertical-align: middle;">
-    <img src="https://github.com/user-attachments/assets/7a587c4c-e6af-48b2-911a-3e6d2e445517" alt="Esri Logo" width="60%">
+    <img src="https://github.com/user-attachments/assets/7a587c4c-e6af-48b2-911a-3e6d2e445517" alt="Esri Logo" width="70%">
 </td>
 </tr>
 
@@ -40,7 +40,7 @@ Aug - Dec, 2023 | Suzhou, China
 
 </td>
 <td align="center" style="border: none; padding: 0; margin: 0; text-align: center; vertical-align: middle;">
-    <img src="https://github.com/user-attachments/assets/ba46ba12-bcf9-486f-86be-430caf1de5f7" alt="Momenta.ai Logo" width="50%">
+    <img src="https://github.com/user-attachments/assets/ba46ba12-bcf9-486f-86be-430caf1de5f7" alt="Momenta.ai Logo" width="65%">
 </td>
 </tr>
 
