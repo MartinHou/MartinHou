@@ -84,7 +84,7 @@ Jun - Sep, 2022 | Shenzhen, China
 - [CS441](https://siebelschool.illinois.edu/academics/courses/cs441) - Applied Machine Learning
 - [CS498](https://siebelschool.illinois.edu/academics/courses/cs498cca) - Cloud Computing Applications
 - [CS511](https://siebelschool.illinois.edu/academics/courses/cs511) - Advanced Data Management
-- CS527 - Topics in Software Engineering 
+- [CS537](https://siebelschool.illinois.edu/academics/courses/cs537) - Advanced Topics in IoT
 
 ## 🖥️ Languages: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
