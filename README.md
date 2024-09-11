@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/3f6c76e8-2903-4a08-a009-4b7cc15dc8b8" alt="Tencent Logo" style="width: 40%"/>
+
 ### Hi there 👋 
 ### This is Martin (Yunchao) Hou, a skilled backend/fullstack developer!
 
@@ -6,9 +8,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinhou2020a@gmail.com)
 ![](https://komarev.com/ghpvc/?username=MartinHou&color=green)
 
-<img align="right" src="https://github.com/user-attachments/assets/3f6c76e8-2903-4a08-a009-4b7cc15dc8b8" alt="Tencent Logo" style="width: 40%">
-
 ----
+
 
 Completing my [M.S. in Computer Science](https://siebelschool.illinois.edu/academics/graduate/professional-mcs) at UIUC in May/Aug/Dec 2025. 
 
