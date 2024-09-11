@@ -17,7 +17,7 @@ Seeking a software engineering **internship** Jan-May 2025.
 
 Seeking a **full-time** role starting from May/Aug 2025.
 
-## 🔬Previous Experience
+## 🔬 Previous Experience
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
 <tr>
