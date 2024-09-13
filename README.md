@@ -99,6 +99,7 @@ Jun - Sep, 2022 | Shenzhen, China
 #### Backend
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-000000?style=flat&logo=dotnet)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot) <br />
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
@@ -113,7 +114,6 @@ Jun - Sep, 2022 | Shenzhen, China
 ![HTML](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=materialdesign)
 ![Ant_Design](https://img.shields.io/badge/-Ant_Design-black?style=flat-square&logo=antdesign)
 
@@ -132,3 +132,6 @@ Jun - Sep, 2022 | Shenzhen, China
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![CUDA](https://img.shields.io/badge/-CUDA-black?style=flat-square&logo=nvidia)
+
+## 🧾 LATEST Resume
+[Yunchao_Hou_UIUC.pdf](https://github.com/user-attachments/files/16987902/Yunchao_Hou_UIUC.pdf)
