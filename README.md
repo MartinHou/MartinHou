@@ -4,6 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/MartinHou)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ych/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:martinhou2020a@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat&logo=internetcomputer&logoColor=white)](https://martinhou.github.io/HomeOfMartin/)
 ![](https://komarev.com/ghpvc/?username=MartinHou&color=green)
 
 <img align="right" src="https://github.com/user-attachments/assets/3f6c76e8-2903-4a08-a009-4b7cc15dc8b8" alt="UIUC logo" width= "50%" />
