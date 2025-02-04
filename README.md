@@ -14,13 +14,24 @@
 
 Completing my [M.S. in Computer Science](https://siebelschool.illinois.edu/academics/graduate/professional-mcs) at UIUC in May/Aug/Dec 2025. 
 
-Seeking a software engineering **internship** Jan-May 2025.
-
-Seeking a **full-time** role starting from May/Aug 2025.
+Seeking a **full-time** role starting from Aug/Dec 2025.
 
 ## 🔬 Previous Experience
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<tr>
+<td width="70%" style="border: none; padding: 0; margin: 0;">
+    
+**Software Developer Intern @ [Tesla](https://www.tesla.com/)**  
+*Revolutionizing transportation and energy.*  
+Feb - May, 2025 | Palo Alto, CA
+
+</td>
+<td width="30%" align="center" style="border: none; padding: 0; margin: 0; text-align: center; vertical-align: middle;">
+    <img src="https://github.com/user-attachments/assets/a5b7a293-ac7e-4c85-a485-b5086a2b56cd" alt="Esri Logo" width="50%">
+</td>
+</tr>
+    
 <tr>
 <td width="70%" style="border: none; padding: 0; margin: 0;">
     
